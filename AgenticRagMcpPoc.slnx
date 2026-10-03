@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="TextFile1.txt" />
+  </Folder>
+  <Project Path="AgenticRag.Agent/AgenticRag.Agent.csproj" />
+  <Project Path="AgenticRag.EmployeeApi/AgenticRag.EmployeeApi.csproj" />
+  <Project Path="AgenticRag.McpServer/AgenticRag.McpServer.csproj" />
+</Solution>

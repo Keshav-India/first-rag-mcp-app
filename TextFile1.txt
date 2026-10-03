@@ -1,0 +1,7 @@
+Why 1536?
+
+This POC uses:
+text-embedding-3-small
+
+
+11. The actual Agentic RAG service-- TILL HERE

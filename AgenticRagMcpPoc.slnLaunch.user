@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "AgenticRag.EmployeeApi\\AgenticRag.EmployeeApi.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
